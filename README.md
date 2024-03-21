@@ -1,7 +1,4 @@
-<H3>Name</H3> LAKSHMAN
-<H3>Register no.</H3> 212222240001
-<H3>Date</H3> 21/03/2024
-<H3>Experiment No. 2 </H3>
+## Experiment No. 2 
 ## Implementation of Perceptron for Binary Classification
 # AIM:
 To implement a perceptron for classification using Python<BR>
@@ -50,6 +47,10 @@ STEP 10:Plot the error for each iteration <BR>
 STEP 11:Print the accuracy
 
 # PROGRAM:
+~~~
+NAME:LAKSHMAN
+REG NO:212222240001
+
 ~~~python
 
 import numpy as np
